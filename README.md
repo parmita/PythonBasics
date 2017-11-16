@@ -1,4 +1,4 @@
 # PythonBasics
 Helpful for python data science beginners
 
-#Many placed code is kept commented. Uncomment out it and check the whole flow and steps.
+#In many placed code is kept commented. Uncomment it out so that you can check the whole flow and steps
